@@ -209,6 +209,7 @@ span{
     ul{
 
         display: none;
+        overflow:hidden;
     }
     li{
         width: 100%;
